@@ -12,6 +12,7 @@ public class Duke {
 
     ArrayList<Task> taskList = new ArrayList<>();
     UiFormatter uiFormatter = new UiFormatter();
+    Jacktest jt = new Jacktest();
     System.out.println(greeting);
     System.out.println(info);
 
